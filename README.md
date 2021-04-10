@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Omkarganjale
 - :adult: yet another engineering guy from India
 - 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning Nodejs and Spring framework
+- 🌱 I’m currently learning Nodejs 
 - 📫 Reach me by email omkarganjale1310@gmail.com
 
 <!---
